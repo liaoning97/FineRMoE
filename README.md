@@ -6,7 +6,7 @@
 
 <div align="center"> 
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg?logo=arxiv)](https://arxiv.org)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg?logo=arxiv)](https://arxiv.org/pdf/2603.13364)
 [![Model](https://img.shields.io/badge/Model-HuggingFace-yellow?logo=huggingface)](https://huggingface.co/collections/NingLiao/finermoe)
 </div>
 
@@ -188,5 +188,13 @@ We acknowledge the contributors of the [Pai-Megatron-Patch](https://github.com/a
 
 If you find our work helpful, feel free to give us a cite.
 ```
-Coming Soon!
+@misc{liao2026finermoedimensionexpansionfinergrained,
+      title={FineRMoE: Dimension Expansion for Finer-Grained Expert with Its Upcycling Approach}, 
+      author={Ning Liao and Xiaoxing Wang and Xiaohan Qin and Junchi Yan},
+      year={2026},
+      eprint={2603.13364},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.13364}, 
+}
 ```
